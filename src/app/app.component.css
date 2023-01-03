@@ -1,0 +1,12 @@
+.match {
+    color: green;
+}
+
+.not-match {
+    color: red;
+    font-weight: 500;
+}
+
+.empty-answer {
+    color: blue;
+}
